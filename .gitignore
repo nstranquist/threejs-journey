@@ -1,0 +1,4 @@
+.vscode/
+/res/*
+node_modules
+
