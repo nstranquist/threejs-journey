@@ -18,6 +18,8 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 // Should always use 'png' for normal maps
 
 
+
+
 // Textures
 const loadingManager = new THREE.LoadingManager()
 
